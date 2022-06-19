@@ -45,3 +45,5 @@
   .bi-heart-full::before { content: "\f415"; }
   .bi-rect-down::before { content: "\f282"; }
   .bi-whatsapp::before { content: "\f618"; }
+  .bi-lef::before { content: "\f284"; }
+  .bi-righ::before { content: "\f285"; }
